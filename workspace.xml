@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a5697a4-ada2-4201-a2f9-0c620c82956b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="75ec8383-0480-4d34-8b87-92a6ba6c5e12" />
+  <component name="ProjectId" id="1g7lGsN2cc9WXbP49HNYQkb2b7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flaskProject" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5697a4-ada2-4201-a2f9-0c620c82956b" name="Default Changelist" comment="" />
+      <created>1597473420565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597473420565</updated>
+      <workItem from="1597473422174" duration="10139000" />
+      <workItem from="1597497709804" duration="1581000" />
+      <workItem from="1597624491396" duration="5026000" />
+      <workItem from="1597640043118" duration="1877000" />
+      <workItem from="1597644256346" duration="7118000" />
+      <workItem from="1597653025654" duration="5954000" />
+      <workItem from="1597813442311" duration="3200000" />
+      <workItem from="1598351021425" duration="416000" />
+      <workItem from="1598415050155" duration="1031000" />
+      <workItem from="1598433798399" duration="2705000" />
+      <workItem from="1598522691917" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598522769385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598522769385" />
+  </component>
+</project>
